@@ -9,7 +9,5 @@
 
 - Horas vagas praticando no Hack The Box ou tentando desenvolver algo em Python
 
-- 2 anos de Linux
-
 - Kali sem ferramenta pronta
 
