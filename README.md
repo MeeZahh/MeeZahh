@@ -9,5 +9,5 @@
 
 - Horas vagas praticando no Hack The Box ou tentando desenvolver algo em Python
 
-- Kali sem ferramenta pronta
+- Evito ferramentas prontas
 
