@@ -8,6 +8,3 @@
 - Atualmente Estagiário de T.I
 
 - Horas vagas praticando no Hack The Box ou tentando desenvolver algo em Python
-
-- Evito ferramentas prontas
-
